@@ -1,2 +1,2 @@
-# mchauge-com
-host onepage website for McHauge.com
+# mchauge.com
+Host a onepage website for McHauge.com
